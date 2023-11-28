@@ -77,4 +77,3 @@ module.exports = {
     getOperationFn,
     sequence,
     deepEqual,
-};
